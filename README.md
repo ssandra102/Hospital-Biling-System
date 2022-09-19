@@ -1,6 +1,6 @@
 # Hospital-Biling-System
 
-##Description
+#Description#
 An auotomated hospital billing system built in c++ language for turbo-C compilers.<br>
 The system allows you to perform various tasks given in the following list:<br>
 1. create, update, delete a patient(customer) record<br>
