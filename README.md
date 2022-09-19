@@ -1,6 +1,6 @@
 # Hospital-Biling-System
 
-#Description
+# Description
 An auotomated hospital billing system built in c++ language for turbo-C compilers.<br>
 The system allows you to perform various tasks given in the following list:<br>
 1. create, update, delete a patient(customer) record<br>
@@ -9,17 +9,17 @@ The system allows you to perform various tasks given in the following list:<br>
 
 The project was built to reduce manual toils and automate the process of hospital billing.<br>
 
-##move all the files to desired directory, and open the file in turbo c++<br>
+## move all the files to desired directory, and open the file in turbo c++<br>
 
-##save the program<br>
+## save the program<br>
 
-##compile the program<br>
+## compile the program<br>
 There is two ways to compile a program in Turbo C++.<br>
 
 1. Press Alt-F9 (as instructed in the status bar of Turbo C++)<br>
 2. Go to Compile tab of Menu bar and press Compile or Build All.<br>
 
-##and voillaa!!<br>
+## and voillaa!!<br>
 
 
  
